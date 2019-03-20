@@ -8,4 +8,4 @@
      outlier.vec[i] <- all(outliers[i,])
     } 
    return(outlier.vec)
-+ }
+ }
